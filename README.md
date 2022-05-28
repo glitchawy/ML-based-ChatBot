@@ -9,7 +9,7 @@ PYtorch powered chatbot for many services ( under working )
 - run the chat bot 
 
 -------------------- NOTE ----------------------------------
-THIS PROJECT IS STILL UNDERWOKING AND WILL BE UPDATED FREQUENTLY AND IT'S NOT THE KAST VERSION OF IT 
+THIS PROJECT IS STILL UNDERWOKING AND WILL BE UPDATED FREQUENTLY AND IT'S NOT THE lAST VERSION OF IT 
 THIS IS JUST A DEMO
 
 
